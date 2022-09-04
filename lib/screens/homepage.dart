@@ -47,7 +47,7 @@ class _HomePageState extends State<HomePage> {
   makeAppbar() {
     return AppBar(
         centerTitle: true,
-        title: Text(
+        title: const Text(
           'Employees List',
         ));
   }
