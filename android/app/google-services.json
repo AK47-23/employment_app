@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878780318410",
+    "project_id": "employementapp-b1040",
+    "storage_bucket": "employementapp-b1040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878780318410:android:875f8d31db5caf8f0bea33",
+        "android_client_info": {
+          "package_name": "com.empapp.employment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878780318410-ga0c3o6na8ogvdmbtsdtg1pg71rgop4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSEM2yZEixRUs603WGaff0_e0xS0rtxHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878780318410-ga0c3o6na8ogvdmbtsdtg1pg71rgop4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
